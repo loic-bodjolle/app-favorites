@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/quoi-avant-big-bang-couv-949x573.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#entete {
+    margin: 0;
+    padding: 0px;
+    background-color: rgb(0, 0, 0);
+    background-size: cover; 
+    display: flex;
+    flex-direction:column;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Rampart One', cursive;
+       
+}
+
+
+/*navigateur du haut*/
+
+.headerNav {    
+    background-image: url('../img/10-5--thumb.png');
+    background-repeat: no-repeat;
+    background-size: cover;    
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around; 
+    width: 100%;
+    border-radius: 30px;  
+}
+
+.headernav-link{
+    background-image: url('../img/quoi-avant-big-bang-couv-949x573.jpeg');
+    border: rgb(222, 203, 240);
+    text-decoration: none;
+    border-radius: 30px; 
+    height: auto;
+    width: 170px;
+    text-align: center;
+}
+
+.headernav-link:hover{   
+    font-size: 15px;
+    text-align: center;
+    background-image: url('../img/big-bang.jpg');
+    background-color: rgb(167, 123, 208);
+}
+
+
+
+
+/* structure (flex)*/
+
+.structure {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0px;
+}
+
+.structure2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0px;
+
+}
+
+.margintop {
+    margin-top: 70px;
+}
+
+
+/* ecriture texte centrale*/
+
+.text {
+    font-family: 'Karla', sans-serif;
+    font-size: 18px;
+    margin-top: 100px;
+
+}
+
+.aligne {
+    margin-top: 100px;
+    margin-left: 575px;
+}
+
+
+/* logo bas de page */
+
+.les3images {
+    margin-top: 100px;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+  
+}
+
+
+

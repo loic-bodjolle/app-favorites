@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/quoi-avant-big-bang-couv-949x573.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#siteHeader{
+    margin: 0;
+    background-color: black;
+    font-family: 'Rampart One', cursive;    
+}
+
+
+h1{
+    margin: 0;
+    padding: 10px;
+
+    color: rgb(222, 187, 255);
+    text-align: center;
+}
+.headerNav{
+    display: flex;
+    justify-content: space-around;
+    background-image: url('../img/10-5--thumb.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headerNav-link{
+    background-image: url('../img/quoi-avant-big-bang-couv-949x573.jpeg');
+    border: rgb(222, 203, 240);
+    text-decoration: none;
+}
+.headerNav-link:hover{   
+    font-size: 15px;
+    text-align: center;
+    background-image: url('../img/big-bang.jpg');
+    background-color: rgb(167, 123, 208);
+
+}
+.PartiePrincipale{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+article {    
+    background-image: url('../img/pngwing.com.png');
+    background-repeat: no-repeat;
+    background-size: 450px;
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.les3images {
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    
+
+}
+footer {
+    /* margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: -15px; */
+    /* background-image: url('../img/big-bang.jpg'); */
+    background-color: black;
+    height: 40px;
+    text-align: center;
+    color: white;
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
