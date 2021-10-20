@@ -71,6 +71,7 @@ body {
 .text {
     font-family: 'Karla', sans-serif;
     font-size: 18px;
+    margin-top: 70px;
 
 }
 
@@ -84,13 +85,12 @@ body {
     margin-top: 100px;
     display: flex;
     flex-direction:row;
-    align-items: center;
-    margin-left: 656px;
+    justify-content: space-around;
   
 }
 
-.structure3 {   
-    text-align: center;
+.margintoplogosoundcloud {   
+    margin-top: 140px;
 
 }
 

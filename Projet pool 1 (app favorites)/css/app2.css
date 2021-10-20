@@ -75,6 +75,7 @@ body {
 .text {
     font-family: 'Karla', sans-serif;
     font-size: 18px;
+    margin-top: 70px;
 
 }
 
@@ -92,8 +93,8 @@ body {
   
 }
 
-.structure3 {   
-    text-align: center;
+.margintoplogoinsta {   
+    margin-top: 250px;
 
 }
 
